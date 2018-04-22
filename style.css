@@ -1,0 +1,31 @@
+/* Selector {
+    Property: value;
+} */
+
+* {
+    font-family: sans-serif;
+}
+
+h2, p {
+    color: #AA4139;
+    text-align: center;
+    cursor: pointer;
+}
+
+p {
+    line-height: 1.5;
+}
+
+img {
+    float: left;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}
+
+nav li {
+    list-style: none;
+    display: inline-block;
+}
